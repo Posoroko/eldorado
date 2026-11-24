@@ -31,12 +31,20 @@ Le HTML constitue la structure fondamentale de toute page web. Le projet privil�
 ### Nuxt
 <span class="textHighlight">Framework et rendu SSR</span>
 
-Nuxt est le framework utilisé pour construire le site. Il facilite le développement, l'organisation des pages et l'évolution de l'architecture. Nuxt.js est un projet open-souce dirigé par des développeurs français.
+Nuxt est le framework utilisé pour construire le site. Il facilite le développement, l'organisation des pages et l'évolution de l'architecture.
 
 ### Directus
 <span class="textHighlight">Headless CMS</span>
 
 Directus est le système de gestion de contenu du projet. Contrairement à un CMS traditionnel qui impose généralement une structure de présentation, Directus permet de gérer les données indépendamment du site qui les utilise. Les contenus peuvent ainsi être organisés et exploités librement, tout en offrant une interface d'administration adaptée aux besoins du Bistrot.
+
+### Netlify
+<span class="textHighlight">Hébergement du site</span>
+Une plateforme très performante permettant d'héberger des applications web modernes. 
+
+### Posoroko Cloud
+<span class="textHighlight">Hébergement du CMS Directus</span>
+Studio Posoroko héberge les instance Directus de ses client. LA meilleure méthode pour rester en contrôle et maîtriser le budget dédié à l'hébergement.
 
 ### Accessibilité
 <span class="textHighlight">Une interface accessible à tous</span>
@@ -54,12 +62,12 @@ Le développement suivra au mieux les recommandations **WAI-ARIA** du W3C afin d
 ### Schema.org
 <span class="textHighlight">Données structurées</span>
 
-Le standard shcema.org sera utilisé pour structurer le contenu afin qu'il soit mis en valeur par les moteur de recherche.  Par exemple, les événements de l'agenda suivront la structure ** event ** qui le défini comme un événement avec une date, une heure, un lieu etc. Google peut ainsi le faire ressortir dans les résultats d'une recherche comme "que faire en centre-bretagne ce soir ?".
+Le standard Shcema.org sera utilisé pour structurer le contenu afin qu'il soit mis en valeur par les moteurs de recherche.  Par exemple, les événements de l'agenda suivront la structure ** event ** qui le défini comme un événement avec une date, une heure, un lieu etc. Google peut ainsi le faire ressortir dans les résultats d'une recherche comme "que faire en centre-bretagne ce soir ?".
 
 Cet aspect du développement n'est pas vu par les visiteurs. Il s'agit uniquement de données destinées au moteurs de recherche et aux bots ou crawlers.
 
 ::: info
-Google défini la plus part des standard et bonnes pratique en matière de référencement et les choix technique sont basé principalement sur ce système. 
+Google défini la plupart des standard et bonnes pratique en matière de référencement et les choix technique sont basé principalement sur ce système. 
 
 Bien comprendre le fonctionnement de Google permet de bien comprendre les enjeux et les objectifs d'un projet comme le notre.
 

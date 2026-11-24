@@ -2,7 +2,7 @@
 
 ## Objet
 
-Ce document présente le projet de site web du Bistrot d'El Dorado. Il expose les choix proposés pour définir l'image de marque du lieu, sa ligne éditoriale et les contenus du site.
+Ce document présente le projet de site web du Bistrot d'El Dorado. Il expose les choix proposés pour définir l'identité de marque du lieu, sa ligne éditoriale et les contenus du site.
 
 Il s'agit d'une proposition : elle est destinée à être discutée, ajustée puis validée avant le début de la réalisation.
 
@@ -14,7 +14,7 @@ Un site web est, malgré les apparences, un outil très technique. Une section e
 
 ## Périmètre actuel
 
-Cette proposition porte sur l'image de marque, la ligne éditoriale et le contenu. La direction artistique fera l'objet d'une section ajouté ultérieurement.
+Cette proposition porte sur l'identité de marque, la ligne éditoriale et le contenu. La direction artistique fera l'objet d'une section ajouté ultérieurement.
 
 ## Validation
 

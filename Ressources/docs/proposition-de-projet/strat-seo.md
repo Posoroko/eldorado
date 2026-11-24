@@ -52,7 +52,7 @@ Il ne faudra pas attendre que les autres sites découvrent spontanément le Bist
 
 Les grands sites et les médias reconnus seront naturellement ciblés, mais les sources plus modestes auront également leur importance : blogs de voyage indépendants, sites associatifs, petites entreprises locales, passionnés de musique ou de gastronomie.
 
-Ces acteurs sont souvent plus accessibles et peuvent être disposés à présenter le Bistrot. En contrepartie, une invitation à découvrir l'établissement, un repas ou une rencontre avec son équipe peut suffire à susciter un article ou une mention.
+Ces acteurs sont souvent plus accessibles et peuvent être disposés à présenter le Bistrot. Google considère toutefois les échanges de biens ou de services contre des liens destinés à influencer le classement comme une pratique artificielle.
 
 La Gazette pourra également servir de support à ces collaborations : proposer un portrait, une rencontre ou un article consacré à un partenaire constitue une bonne manière de créer des relations durables et d'encourager les liens en retour.
 

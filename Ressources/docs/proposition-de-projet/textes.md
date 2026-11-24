@@ -53,6 +53,13 @@ Pour chaque page :
 - **h1** : Au comptoir
 - **Texte d'intro** : « Deux demis, un Queen Sour et pour moi, comme d'hab' » : un vrai bar de campagne où les Dry Martinis se boivent en bleu de travail.
 
+### Menu
+- **url** : `/bar/menu`
+- **title** : `La carte — bar du Bistrot d'El Dorado à Paule en Centre-Bretagne`
+- **description** : `Découvrez la carte des boissons du Bistrot d'El Dorado : bières locales, vins de producteurs et cocktails.`
+- **h1** : La carte
+- **Texte d'intro** : Des bières locales, des vins de producteurs finement sélectionnés et des cocktails préparés avec précision.
+
 ### Concerts
 - **url** : `/concerts`
 - **title** : `Concerts à Paule en Centre-Bretagne — Programmation | Bistrot d'El Dorado`
@@ -87,7 +94,7 @@ Cette programmation bénéficie aussi de la présence du Studio Eldorado, instal
 ### À propos
 - **url** : `/a-propos`
 - **title** : `Histoire & identité du Bistrot d'El Dorado — Paule, Bretagne`
-- **description** : `Découvrez le lieu et les activvité du Bistrot d'Eldorado situé à Paule en Centre-Bretagne.`
+- **description** : `Découvrez le lieu et les activité du Bistrot d'Eldorado situé à Paule en Centre-Bretagne.`
 - **h1** : Le lieu
 - **Texte d'intro** : Découvrez l'histoire de ce lieu qui a connu ses heures de gloire à partir des années 60. Aujourd'hui encore, il reste un lieu vivant, ancré dans la vie du village et du Centre-Bretagne.
 

@@ -51,7 +51,11 @@ La stratégie est détaillée dans la section [Stratégie SEO](/strat-seo).
 
 Faire figurer le Bistrot sur des sites de référence de qualité : agendas culturels, sites officiels du département et de la région, guides culinaires. Ces mentions renforcent la crédibilité du lieu auprès des visiteurs comme des moteurs de recherche.
 
-<span class="textHighlight">Plus il y a de liens qui pointent vers le site, plus sa réputation prend de l'ampleur.  Les bars figurant dans les listes des meilleurs bar de Bretagne ne sont pas focément les plus intéressants, mais plutôt ceux qui ont les meilleurs présence en ligne.</span>
+Plus il y a de liens qui pointent vers le site, plus sa réputation prend de l'ampleur.  La quantité ne fait pas tout, encore faut-il que ce soit des lient de qualité, figurant sur des site à forte notoriété.
+
+<span class="textHighlight">
+Les bars figurant dans les listes des meilleurs bars de Bretagne ne sont pas forcémentt les plus intéressants, mais plutôt ceux qui ont les meilleurs présence en ligne.
+</span>
 
 ## Travail mesuré
 

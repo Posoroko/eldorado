@@ -15,7 +15,7 @@ Ce document rassemble les textes de référence du Bistrot d'El Dorado — nom, 
 Les balises <title> et <description> dfinisse le texte affiché par le navigateur et google dans les résultats de recherche.
 Le navigateur affice <title> dans l'onglet qui contient la page.
 Google affiche <title> en gras et <descriotion> en dessous.
-<h1> est le titre principale affiché sur la page 
+<h1> est le titre principal affiché sur la page 
 <h2> est le sous-titre
 
 ---
@@ -65,7 +65,7 @@ Le Bistrot d'El Dorado héberge le La Poste Relais de Paule : un service de prox
 
 Pour chaque page : 
 - balises `<title>` et `<description>` utilisé par Google, Facebook, etc, 
-- `<h1>` Titre principale affiché sur la page
+- `<h1>` Titre principal affiché sur la page
 - Intro narative:  Petit texte en haut de page pour présenter le sujet. 
 
 ### Accueil — `/`

@@ -97,6 +97,6 @@ suivi de:
 
 ### Recommandation
 
-L'objectif principale est de garantir une identité numérique cohérente, reconnaissable et pérenne. Cela se fait en unifiant les noms sur les différents médias.
+L'objectif principal est de garantir une identité numérique cohérente, reconnaissable et pérenne. Cela se fait en unifiant les noms sur les différents médias.
 
-Quand au nom de domaine, `eldorado.bar` est vriament idéal, mais `bistrot-del-dorado.com` peu aussi bien faire l'affaire.
+Quant au nom de domaine, `eldorado.bar` est vraiment idéal, mais `bistrot-del-dorado.com` peu aussi bien faire l'affaire.

@@ -10,7 +10,7 @@ hero:
 
 features:
   - title: Identité
-    details: La personnalité du lieu, son image de marque.
+    details: La personnalité du lieu, son identité de marque.
   - title: Contenus
     details: Les textes imaginés, la ligne éditoriale.
   - title: Performance

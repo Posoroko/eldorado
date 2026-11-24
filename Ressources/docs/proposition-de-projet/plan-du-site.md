@@ -15,7 +15,7 @@ La navigation sera ensuite conçue dans ces pages afin d'accéder directement au
 Bien qu'il sera possible, plus tard, d'ajouter des pages comme `/boutique/disquaire`, il sera difficile de déplacer des pages existantes comme passer de `/restautant/mennu` à `/menus/restaurant`. <span class="textHighlight">  Il est donc important de définir une structure efficace et évolutive.</span>
 
 ::: info
-Les extensions indiquées dans le plan sont ajoutées à la suite du nom de domaine.
+Les segments d'URL indiquées dans le plan sont ajoutées à la suite du nom de domaine.
 
 - `www.eldorado.bar/` pour la page d'accueil
 - `www.eldorado.bar/restaurant/menu` pour le nenu
