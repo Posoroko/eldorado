@@ -1,0 +1,35 @@
+.proposal-intro {
+  max-width: 760px;
+  margin: 0 auto 36px;
+  padding: 0 24px;
+  color: var(--vp-c-text-2);
+  text-align: center;
+  line-height: 1.75;
+}
+
+.proposal-action {
+  display: flex;
+  justify-content: center;
+  margin: 8px 24px 56px;
+}
+
+.proposal-action a {
+  border: 1px solid var(--vp-c-border);
+  border-radius: 999px;
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+  padding: 10px 18px;
+  text-decoration: none;
+  transition:
+    border-color 0.25s,
+    background-color 0.25s;
+}
+
+.proposal-action a:hover {
+  border-color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+}
+
+.textHighlight {
+    color: var(--vp-c-brand-1);
+}

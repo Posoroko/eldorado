@@ -1,0 +1,10 @@
+{
+  "name": "directus-mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "MCP server for Directus CMS",
+  "main": "directus-server.js",
+  "scripts": {
+    "start": "node directus-server.js"
+  }
+}
