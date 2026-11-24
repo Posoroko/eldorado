@@ -1,9 +1,7 @@
 ---
 layout: home
 proposalIntro: |
-  Création du premier site web du Bistrot d'El Dorado.
-  Il propose de définir l'image de marque du lieu, fondement d'un site cohérent,
-  puis d'en tirer l'architecture, les contenus et les choix techniques.
+  Présentation du projet de premier site web du Bistrot d'Eldorado.
 
 hero:
   name: Bistrot d’El Dorado
