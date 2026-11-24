@@ -10,6 +10,10 @@ La charte définira les fondements de cette identité — typographies, couleurs
 
 L'objectif est de créer un univers visuel distinctif, suffisamment souple pour accompagner les différentes activités du lieu, tout en garantissant une véritable cohérence d'ensemble.
 
+::: warning
+La charte graphique n'est pas complètement définie pour l'instant.  La présente proposition tente de définir l'aspect plus technique pour commencer. l'aspect plus artistique et éditorial sera aborder ultérieurement.
+:::
+
 ## Présence en ligne
 <span class="textHighlight"> Une visibilité optimisée pour chaque activité </span>
 

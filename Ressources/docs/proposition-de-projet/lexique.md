@@ -71,3 +71,60 @@ Degré de confiance accordé à un site, notamment en fonction de sa qualité é
 ## Trafic
 
 Nombre de visiteurs qui arrivent sur un site. Le trafic peut provenir des moteurs de recherche, des réseaux sociaux, des liens présents sur d'autres sites ou des adresses saisies directement.
+
+### Crawler
+<span class="textHighlight">Robot d'exploration</span>
+
+Un type de bot chargé de parcourir les pages web en suivant les liens d'une page à l'autre. Il découvre ainsi de nouvelles pages et détecte les modifications apportées aux pages existantes.
+
+### Google Search Console
+
+Outil gratuit de Google permettant de suivre et d'analyser la présence d'un site dans les résultats de recherche. Il fournit notamment des informations sur les recherches ayant affiché le site, les clics obtenus, les pages consultées et leur position moyenne. Ces données permettent d'évaluer les performances SEO, de détecter de nouvelles opportunités et d'orienter l'évolution des contenus.
+
+### Google
+<span class="textHighlight">Exploration, indexation et classement </span>
+
+Google ne constitue pas une simple liste de sites web. Il parcourt continuellement le Web, analyse les pages découvertes et construit un immense index dans lequel il conserve les informations qu'il juge utiles.
+
+Lorsqu'un internaute effectue une recherche, Google sélectionne et classe les pages de son index en fonction de leur pertinence par rapport à la requête.
+
+Ce fonctionnement repose sur plusieurs étapes.
+
+1. La découverte et l'exploration
+
+Google utilise ses robots, notamment Googlebot, pour parcourir le Web. Ils suivent les liens présents sur les pages afin de découvrir de nouveaux contenus et de revenir régulièrement sur les pages déjà connues.
+
+Une page peut être découverte grâce à un lien provenant d'un autre site, à un lien interne ou à un sitemap XML fourni par le site.
+
+2. L'analyse et l'indexation
+
+Google analyse les pages découvertes afin d'en comprendre le contenu et la structure. Il prend notamment en compte les textes, les titres, les liens, les images et les informations structurées.
+
+Les pages jugées suffisamment pertinentes et accessibles peuvent être ajoutées à son index. Cet index constitue la base de données dans laquelle Google recherche les pages susceptibles de répondre aux requêtes des internautes.
+
+Une page explorée n'est donc pas nécessairement indexée. Et une page indexée n'est pas nécessairement bien positionnée.
+
+3. Le classement des résultats
+
+Lorsqu'une personne effectue une recherche, Google cherche les pages les plus susceptibles de répondre à son besoin. Il utilise de nombreux systèmes et signaux pour déterminer leur ordre d'affichage.
+
+Parmi les éléments pris en compte :
+
+La pertinence du contenu : le sujet de la page correspond-il à la recherche ? Les informations répondent-elles réellement à la question ou au besoin de l'internaute ?
+La qualité et la fiabilité : le contenu est-il utile, précis et digne de confiance ? La réputation de la source et les références disponibles peuvent également entrer en jeu.
+La popularité et les liens : d'autres sites reconnus font-ils référence à cette page ou à ce site ? Les liens entrants peuvent contribuer à évaluer sa notoriété et son autorité.
+Le contexte de recherche : la localisation de l'internaute, la formulation de sa recherche et son intention influencent les résultats proposés.
+L'expérience utilisateur : la page est-elle accessible, rapide, sécurisée et utilisable dans de bonnes conditions, notamment sur mobile ?
+Ces éléments ne constituent pas une simple liste de points à cocher. Google utilise des centaines de signaux et différents systèmes de classement qui cherchent à évaluer les pages dans leur contexte.
+
+4. Un classement différent selon la recherche
+
+Le classement n'est pas une position fixe attribuée une fois pour toutes à un site. Il est calculé pour chaque recherche et peut varier selon les termes utilisés, la localisation de l'internaute, la concurrence et l'évolution des contenus disponibles.
+
+Un même établissement peut ainsi apparaître très haut dans les résultats pour une recherche précise, mais beaucoup plus bas pour une autre.
+
+Il faut également distinguer les résultats naturels des annonces publicitaires. Les annonces peuvent apparaître au-dessus des résultats naturels, mais elles ne constituent pas un meilleur référencement : elles correspondent à un système publicitaire distinct.
+
+En résumé : Google cherche à proposer, pour chaque recherche, les pages les plus pertinentes et les plus fiables qu'il connaît. La visibilité d'un site dépend donc à la fois de sa capacité à être découvert et compris par le moteur, et de la qualité de sa réponse aux besoins des internautes.
+
+Documentation officielle : https://developers.google.com/search/docs/fundamentals/how-search-works
