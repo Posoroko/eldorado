@@ -39,6 +39,7 @@ Nuxt est le framework utilisé pour construire le site. Il facilite le développ
 Directus est le système de gestion de contenu du projet. Contrairement à un CMS traditionnel qui impose généralement une structure de présentation, Directus permet de gérer les données indépendamment du site qui les utilise. Les contenus peuvent ainsi être organisés et exploités librement, tout en offrant une interface d'administration adaptée aux besoins du Bistrot.
 
 ### Accessibilité
+<span class="textHighlight">Une interface accessible à tous</span>
 
 Le web est devenu un outil essentiel du quotidien, utilisé par tous et dans des contextes très variés. Il est donc important de concevoir un site que chacun puisse consulter et utiliser facilement, quelles que soient ses capacités physiques, sensorielles ou cognitives.
 
@@ -51,7 +52,7 @@ L'objectif n'est pas seulement de rendre le site techniquement accessible, mais 
 Le développement suivra au mieux les recommandations **WAI-ARIA** du W3C afin de garantir une meilleure compatibilité avec les technologies d'assistance et les interfaces accessibles. [Consulter les recommandations WAI-ARIA](https://www.w3.org/WAI/ARIA/).
 
 ### Schema.org
-<span class="textHighLight">Données structurées</span>
+<span class="textHighlight">Données structurées</span>
 
 Le standard shcema.org sera utilisé pour structurer le contenu afin qu'il soit mis en valeur par les moteur de recherche.  Par exemple, les événements de l'agenda suivront la structure ** event ** qui le défini comme un événement avec une date, une heure, un lieu etc. Google peut ainsi le faire ressortir dans les résultats d'une recherche comme "que faire en centre-bretagne ce soir ?".
 
