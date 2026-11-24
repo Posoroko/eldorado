@@ -15,7 +15,7 @@ Un site à fort potentiel SEO exige une attention particulière à sa constructi
 L'objectif de ce brief est donc de définir les fondations techniques du projet et de préciser le rôle de chaque composant, sans entrer dans les détails d'implémentation.
 
 
-## Choix techniques
+## Les technologies
 
 Les choix techniques ont été guidés par trois priorités
 
