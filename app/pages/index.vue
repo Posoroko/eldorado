@@ -7,12 +7,14 @@
     </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { ref, reactive, onMounted } from 'vue'
 import gsap from 'gsap'
 import { MorphSVGPlugin } from 'gsap/MorphSVGPlugin'
 
 gsap.registerPlugin(MorphSVGPlugin)
+
+useHead({ title: 'Bistrot d\'El Dorado' })
 
 const shapeRef = ref(null)
 
