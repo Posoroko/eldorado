@@ -1,5 +1,4 @@
 # Stratégie SEO
-
 <span class="textHighlight">Faire du Bistrot d’El Dorado une référence au-delà de son territoire</span>
 
 Le site internet n'a pas vocation à être une simple vitrine que l'on consulte lorsque l'on connaît déjà le Bistrot d'El Dorado. Son rôle est avant tout de le faire découvrir à de nouveaux publics.
@@ -7,13 +6,12 @@ Le site internet n'a pas vocation à être une simple vitrine que l'on consulte 
 L'objectif est que Google identifie le Bistrot comme une adresse pertinente et crédible pour un large éventail de recherches : bonnes tables en Bretagne, bars de caractère, lieux culturels en Centre-Bretagne, concerts dans les Côtes-d'Armor et bien d'autres sujets liés à ses activités.
 
 Pour y parvenir, la stratégie SEO propose de : 
-- multiplier les mentions sur des sites pertinents, 
+- multiplier les mentions sur des sites pertinents
 - suivre régulièrement les performances dans Google
 - optimiser la présence sur les réseaux sociaux
-- enrichir le site avec des contenus éditoriaux de qualité.
+- enrichir le site avec des contenus éditoriaux de qualité
 
 ## Liens entrants
-
 <span class="textHighlight">Développer la notoriété du site auprès de sources reconnues</span>
 
 Les liens entrants — ou backlinks — provenant d'autres sites constituent un levier important du référencement. Ils contribuent à renforcer la crédibilité et la notoriété du site aux yeux de Google.
@@ -21,11 +19,10 @@ Les liens entrants — ou backlinks — provenant d'autres sites constituent un 
 L'objectif sera d'obtenir des liens depuis des sites reconnus, en privilégiant ceux qui disposent d'une bonne autorité et d'un lien thématique ou géographique avec les activités du Bistrot.
 
 ### **Bar**
-
 Développer des partenariats avec les fournisseurs, notamment Coreff, ainsi qu'avec les annuaires de bars, les guides touristiques, les offices de tourisme et les sites consacrés aux bonnes adresses de Bretagne.
 
 :::info
-Un lien sur le site de Correff pointant vers le site du BED est un lien de qualité. Correff est un site a forte notoriété et le lien est pertinent. C'est là le genre de lien qu'on doit obtenir.
+Un lien sur le site de Coreff pointant vers le site du BED est un lien de qualité. Coreff est un site a forte notoriété et le lien est pertinent. C'est là le genre de lien qu'on doit obtenir.
 :::
 
 ### **Restaurant**
@@ -76,11 +73,11 @@ Comme nous l'avons mentionné dans l'article précédent, le Google Search Conso
 
 <span class="textHighlight">Optimiser les profils pour être trouvé dans la recherche locale</span>
 
-Facebook et Instagram sont déjà utilisés par le Bistrot. Ils peuvent contribuer à sa visibilité en ligne, à condition que leurs profils soient complets, réguliers et cohérents avec le reste de la présence numérique.
+Facebook et Instagram sont déjà utilisés par le Bistrot. Ils peuvent contribuer à sa visibilité en ligne, à condition que leurs profils soient complets, actifs et cohérents avec le reste de la présence numérique.
 
 Chaque réseau possède son propre moteur de recherche. Les utilisateurs peuvent y chercher directement « bar à Paule », « concert en Centre-Bretagne » ou « restaurant à proximité ». Les éléments visibles des profils participent donc à leur classement : nom de l'établissement, catégorie, localisation, adresse, description, mots employés dans les publications et fréquence d'activité.
 
-Il sera dont primordiale de porter la présente stratégie vers les plateformes où le BED est présent.
+Il sera donc primordial de porter la présente stratégie vers les plateformes où le BED est présent.
 
 ### Cohérence et extension
 
@@ -88,7 +85,7 @@ Les noms, adresses, horaires et liens doivent rester identiques sur tous les ré
 
 Sur le site, les comptes Facebook et Instagram pourront également être associés à l'établissement grâce à la propriété `sameAs` du balisage Schema.org. Recommandée par Google, cette information établit explicitement le lien entre la fiche de l'établissement et ses profils officiels.
 
-D'autres réseaux pourront être ajoutés ultérieurement s'ils correspondent réellement aux publics du lieu, voici quelques exemples:
+D'autres réseaux pourront être ajoutés ultérieurement s'ils correspondent réellement aux publics du lieu, voici quelques exemples :
 
 - <span class="textHighlight">Google Business Profile</span>
 Essentiel pour les recherches locales et Google Maps

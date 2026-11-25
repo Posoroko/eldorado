@@ -11,7 +11,7 @@ La charte définira les fondements de cette identité — typographies, couleurs
 L'objectif est de créer un univers visuel distinctif, suffisamment souple pour accompagner les différentes activités du lieu, tout en garantissant une véritable cohérence d'ensemble.
 
 ::: warning
-La charte graphique n'est pas complètement définie pour l'instant.  La présente proposition tente de définir l'aspect plus technique pour commencer. l'aspect plus artistique et éditorial sera aborder ultérieurement.
+La charte graphique n'est pas complètement définie pour l'instant.  La présente proposition tente de définir l'aspect plus technique pour commencer. L'aspect plus artistique et éditorial sera abordé ultérieurement.
 :::
 
 ## Présence en ligne
@@ -25,13 +25,12 @@ Développer une stratégie de référencement naturel adaptée à chacune des ac
 Positionner le Bistrot d’El Dorado dans les recherches de restaurants, notamment auprès des visiteurs et touristes à la recherche de bonnes adresses gastronomiques.  Viser le marché des "bonnes petites tables". On cherche à faire découvrir l'établissement au-delà de sa clientèle locale et de le rendre visible auprès des "foodies".
 
 ### Bar
-<span class="textHighlight">L'adresse incontournable.</span>
+<span class="textHighlight">L'adresse incontournable</span>
 
 Faire connaître le Bistrot comme un lieu festif, chaleureux et singulier du Centre-Bretagne et des Côtes-d'Armor. Développer sa visibilité dans les recherches locales et les sélections éditoriales consacrées aux meilleurs bars de Bretagne.  S'imposer comme un incontournable des comptoirs bretons.
 
 ### Concerts
 <span class="textHighlight">La scène culturelle</span>
-
 
 Faire reconnaître le Bistrot d’El Dorado comme un véritable lieu de diffusion culturelle, avec une programmation régulière et des artistes de qualité. Structurer l'agenda pour que chaque événement puisse être identifié et référencé par les moteurs de recherche et les agendas culturels spécialisés : Le Cri de l'Ormeau, le CCKB, les acteurs culturels de Carhaix et des Côtes-d'Armor, entre autres.
 
@@ -51,7 +50,7 @@ La stratégie est détaillée dans la section [Stratégie SEO](/strat-seo).
 
 Faire figurer le Bistrot sur des sites de référence de qualité : agendas culturels, sites officiels du département et de la région, guides culinaires. Ces mentions renforcent la crédibilité du lieu auprès des visiteurs comme des moteurs de recherche.
 
-Plus il y a de liens qui pointent vers le site, plus sa réputation prend de l'ampleur.  La quantité ne fait pas tout, encore faut-il que ce soit des lient de qualité, figurant sur des site à forte notoriété.
+Plus il y a de liens qui pointent vers le site, plus sa réputation prend de l'ampleur.  La quantité ne fait pas tout, encore faut-il que ce soit des liens pertinents, figurant sur des sites à forte notoriété.
 
 <span class="textHighlight">
 Les bars figurant dans les listes des meilleurs bars de Bretagne ne sont pas forcémentt les plus intéressants, mais plutôt ceux qui ont les meilleurs présence en ligne.
@@ -59,9 +58,10 @@ Les bars figurant dans les listes des meilleurs bars de Bretagne ne sont pas for
 
 ## Travail mesuré
 
-Plus un site est vivant, plus il est efficace, mais plus il demande de travail. Le projet cherche à identifier clairement le niveau d'effort nécessaire pour l'animer : actualités, agenda, articles sur la vie locale, albums photo. Pour obtenir un rythme réaliste et durable, on doit <span class="textHighlight">centraliser les efforts déjà déployé (facebook, instagram, newsletter) vers vers Directus, la plateforme admin du site web.</span> Un système de publication automatique évitera de saisir plusieurs fois le même contenu.
+Plus un site est vivant, plus il est efficace, mais plus il demande de travail. Le projet cherche à identifier clairement le niveau d'effort nécessaire pour l'animer : actualités, agenda, articles sur la vie locale, albums photo. Pour obtenir un rythme réaliste et durable, on doit <span class="textHighlight">centraliser les efforts déjà déployé (facebook, instagram, newsletter) vers Directus, la plateforme admin du site web.</span> Un système de publication automatique évitera de saisir plusieurs fois le même contenu.
 
 ## Ecosystème connecté
+<span class="textHighlight">Le site comme point central de l'écosystème éditorial.</span>
 
 Mettre en place un flux de publication régulier permettant de faire vivre le site et de relayer les contenus sur l'ensemble des canaux de communication.
 
@@ -71,6 +71,4 @@ Le fonctionnement reposera sur trois types de publications complémentaires :
 - **La Gazette :** des articles consacrés à l'actualité du Bistrot, à ses activités, aux artistes de passage et à la vie locale viennent enrichir régulièrement le site avec des contenus éditoriaux durables.
 - **La newsletter :** une sélection des dernières publications est envoyée aux abonnés pour les informer de l'actualité et les inviter à découvrir les articles directement sur le site.
 
-Chaque nouvelle publication dans l'agenda ou la Gazette déclenche automatiquement la création de publications adaptées à Facebook et Instagram. Le contenu est ainsi relayé sur les réseaux sociaux sans multiplier les saisies ni les opérations manuelles.
-
-L'objectif est de faire du site le **point central de l'écosystème éditorial** : les contenus y sont publiés en priorité, puis diffusés sur les différents canaux pour toucher les publics, entretenir la relation avec les abonnés et générer du trafic vers le site.
+Chaque nouvelle publication dans l'agenda ou la Gazette déclenche automatiquement la création de publications adaptées à Facebook et Instagram. Le contenu est ainsi relayé automatiquement sur les réseaux sociaux.

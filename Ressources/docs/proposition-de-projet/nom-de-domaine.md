@@ -11,16 +11,16 @@ Actuellement, plusieurs variantes coexistent :
 | Instagram | El Dorado (`@eldoradopaule`) |
 | Facebook | El Dorado Bar |
 | Devanture / store banne | Bistrot d'El Dorado |
-| newsletter | titley.biz |
-| Nom de domaine | À définir |
+| Newsletter | titley.biz |
+| site web | À définir |
 
-Les variations du nom officiel ne sont pas trop problématiques, mais "titley.biz" rique de poser préjudice dans certaines situation, comme par exemple si quelqu'un trouve le bistrot sur instagram et tente de trouver le site web ensuite sur le web.
+Les variations du nom officiel ne sont pas trop problématiques, mais "titley.biz" risque de poser préjudice dans certaines situations, comme par exemple un utilisateur qui trouve le bistrot sur instagram et tente de trouver le site ensuite sur le web.
 
 Nom officiel : <span class="textHighlight">**Bistrot d'El Dorado**</span>
 
-Il serait pertinent de faire converger progressivement tous les supports vers cette appellation mais on peut envisager une variation du nom officiel pour le nom de domaine. ex: Bistrot d'el Dorado => eldorado.com ou eldorado-paule.fr
+Il serait pertinent de faire converger progressivement tous les supports vers cette appellation, mais on peut envisager une variation du nom officiel pour le nom de domaine. ex: Bistrot d'el Dorado => eldorado.com ou eldorado-paule.fr
 
-Sur les réseaux sociaux, chaque compte possède deux noms: le 'account name' et le 'display name'. L'idéal est d'utiliser le nom officiel pour au moins un des deux.  Les variations sont acceptables, mais rendent plus difficiles la recherche.
+Sur les réseaux sociaux, chaque compte possède deux noms : le 'account name' et le 'display name'. L'idéal est d'utiliser le nom officiel pour au moins un des deux.  Les variations sont acceptables, mais rendent plus difficiles la recherche.
 
 L'objectif est de construire une identité reconnaissable et cohérente, qui puisse perdurer indépendamment de la personne qui exploite le lieu.
 
@@ -45,8 +45,7 @@ La gestion technique du nom de domaine peut être confiée à un prestataire san
 Quelques extensions méritent d'être considérées.
 
 #### **.fr**
-<span class="textHighlight">signal géographique</span>
-
+<span class="textHighlight">Signal géographique</span>
 
 L'extension `.fr` identifie clairement le site comme français. Elle est familière aux visiteurs et constitue un signal géographique pour Google, qui associe les extensions nationales à leur pays respectif. C'est un choix naturel pour un établissement dont la clientèle est principalement française et locale.
 

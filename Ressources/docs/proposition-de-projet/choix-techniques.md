@@ -4,16 +4,10 @@
 
 <span class="textHighlight">Une architecture technique au service du projet</span>
 
-Cette page présente les principaux choix techniques retenus pour la réalisation du site web du Bistrot d'El Dorado. Elle explique les technologies, les standards et les méthodes qui permettront de construire un site performant, accessible, évolutif et particulièrement efficace en matière de référencement naturel.
+Le projet ne consiste pas simplement à créer une interface graphique et à y intégrer du contenu. Un site à fort potentiel SEO exige une attention particulière à sa construction technique. 
+La qualité du référencement dépend non seulement des contenus publiés, mais aussi de la manière dont ils sont structurés, rendus, reliés entre eux et présentés aux moteurs de recherche.
 
-Le projet ne consiste pas simplement à créer une interface graphique et à y intégrer du contenu. Il s'agit de concevoir une véritable architecture web dans laquelle chaque élément occupe une fonction précise : structure HTML sémantique, données structurées Schema.org, accessibilité, rendu côté serveur (SSR), framework Nuxt et système de gestion de contenu Directus.
-
-Ces différents éléments doivent être pensés ensemble et intégrés au bon niveau de l'architecture. Leur mise en œuvre doit notamment garantir que les contenus soient correctement interprétés par les moteurs de recherche, rapidement accessibles aux visiteurs et facilement administrables au quotidien.
-
-Un site à fort potentiel SEO exige une attention particulière à sa construction technique. La qualité du référencement dépend non seulement des contenus publiés, mais aussi de la manière dont ils sont structurés, rendus, reliés entre eux et présentés aux moteurs de recherche.
-
-L'objectif de ce brief est donc de définir les fondations techniques du projet et de préciser le rôle de chaque composant, sans entrer dans les détails d'implémentation.
-
+Cette section défini les fondations techniques du projet et précise le rôle de chaque composant.
 
 ## Les technologies
 
@@ -44,7 +38,7 @@ Une plateforme très performante permettant d'héberger des applications web mod
 
 ### Posoroko Cloud
 <span class="textHighlight">Hébergement du CMS Directus</span>
-Studio Posoroko héberge les instance Directus de ses client. LA meilleure méthode pour rester en contrôle et maîtriser le budget dédié à l'hébergement.
+Studio Posoroko héberge les instances Directus de ses clients. La meilleure méthode pour rester en contrôle et maîtriser le budget dédié à l'hébergement.
 
 ### Accessibilité
 <span class="textHighlight">Une interface accessible à tous</span>
@@ -62,15 +56,15 @@ Le développement suivra au mieux les recommandations **WAI-ARIA** du W3C afin d
 ### Schema.org
 <span class="textHighlight">Données structurées</span>
 
-Le standard Shcema.org sera utilisé pour structurer le contenu afin qu'il soit mis en valeur par les moteurs de recherche.  Par exemple, les événements de l'agenda suivront la structure ** event ** qui le défini comme un événement avec une date, une heure, un lieu etc. Google peut ainsi le faire ressortir dans les résultats d'une recherche comme "que faire en centre-bretagne ce soir ?".
+Le standard Schema.org sera utilisé pour structurer le contenu afin qu'il soit mis en valeur par les moteurs de recherche.  Par exemple, les événements de l'agenda suivront la structure ** event ** qui le définit comme un événement avec une date, une heure, un lieu, etc. Google peut ainsi le faire ressortir dans les résultats d'une recherche telle que "que faire en centre-bretagne ce soir ?".
 
 Cet aspect du développement n'est pas vu par les visiteurs. Il s'agit uniquement de données destinées au moteurs de recherche et aux bots ou crawlers.
 
 ::: info
-Google défini la plupart des standard et bonnes pratique en matière de référencement et les choix technique sont basé principalement sur ce système. 
+Google définit la plupart des standards et bonnes pratiques en matière de référencement et les choix techniques sont basés principalement sur ce système. 
 
 Bien comprendre le fonctionnement de Google permet de bien comprendre les enjeux et les objectifs d'un projet comme le notre.
 
-consulter l'article Google du [lexique](/lexique) qui explique le fonctionnement du plus important moteur de recherche.
+Consulter l'article Google du [lexique](/lexique) qui explique le fonctionnement du plus important moteur de recherche.
 :::
 

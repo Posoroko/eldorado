@@ -54,7 +54,7 @@ Pour chaque page :
 - **Texte d'intro** : « Deux demis, un Queen Sour et pour moi, comme d'hab' » : un vrai bar de campagne où les Dry Martinis se boivent en bleu de travail.
 
 ### Menu
-- **url** : `/bar/menu`
+- **url** : `/bar/carte`
 - **title** : `La carte — bar du Bistrot d'El Dorado à Paule en Centre-Bretagne`
 - **description** : `Découvrez la carte des boissons du Bistrot d'El Dorado : bières locales, vins de producteurs et cocktails.`
 - **h1** : La carte
@@ -101,9 +101,9 @@ Cette programmation bénéficie aussi de la présence du Studio Eldorado, instal
 ### Agenda
 - **url** : `/agenda`
 - **title** : `Agenda — Concerts & événements à Paule | Bistrot d'El Dorado`
-- **description** : `Concerts, belote et événements à venir au Bistrot d'El Dorado à Paule. Consultez les dates et préparez votre venue en Centre-Bretagne.`
+- **description** : `Concerts, belote et événements à venir au Bistrot d'El Dorado à Paule. Consultez les dates et préparez votre sortie en Centre-Bretagne.`
 - **h1** : L'agenda
-- **Texte d'intro** : Chaque semaine, un nouveau rendez-vous : concerts, soirées belote et moments à partager. Retrouvez ici toutes les dates à venir.
+- **Texte d'intro** : Chaque semaine, de nouveaux rendez-vous : concerts, soirées belote et moments à partager. Retrouvez ici toutes les dates à venir.
 
 ### Fiche événement
 - **url** : `/agenda/[nom-de-l-evenement]`

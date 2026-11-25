@@ -12,10 +12,10 @@ La navigation sera ensuite conçue dans ces pages afin d'accéder directement au
 
 ## Future proof
 
-Bien qu'il sera possible, plus tard, d'ajouter des pages comme `/boutique/disquaire`, il sera difficile de déplacer des pages existantes comme passer de `/restautant/mennu` à `/menus/restaurant`. <span class="textHighlight">  Il est donc important de définir une structure efficace et évolutive.</span>
+Bien qu'il sera possible, plus tard, d'ajouter des pages comme `/boutique/disquaire`, il sera difficile de déplacer des pages existantes comme passer de `/restautant/menu` à `/menus/restaurant`. <span class="textHighlight">  Il est donc important de définir une structure efficace et évolutive.</span>
 
 ::: info
-Les segments d'URL indiquées dans le plan sont ajoutées à la suite du nom de domaine.
+Les segments d'URL indiqués dans le plan sont ajoutés à la suite du nom de domaine.
 
 - `www.eldorado.bar/` pour la page d'accueil
 - `www.eldorado.bar/restaurant/menu` pour le nenu
@@ -29,7 +29,7 @@ Les segments d'URL indiquées dans le plan sont ajoutées à la suite du nom de 
   - **Restaurant** `/restaurant`
     - Menu du restaurant `/restaurant/menu`
   - **Bar** `/bar`
-    - Carte du bar `/bar/menu`
+    - Carte du bar `/bar/carte`
   - **Concerts** `/concerts`
   - **La Poste Relais** `/la-poste-paule`
   - **Boutique** `/boutique` *(développement ultérieur)*

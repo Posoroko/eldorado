@@ -16,4 +16,4 @@ Une newsletter est déjà existante avec environ 600 destinataires.  C'est une b
 
 ### 4. Présence unifiée
 
-LE BED existe déjà sur Facebook et Instagram. Nous porterons l'attention nécessaire pour unifier l'image de l'entreprise en accord avec le nouveau site web. Il sera aussi important d'inscrire le BED sur d'autres plateformes d'intérêt, entre autres Google Business Profile. Le lieu cumulant plusieurs activités (bar, restaurant, concerts, poste), la fiche google doit les présenter clairement pour être trouvée sur chacune d'elles.
+Le BED existe déjà sur Facebook et Instagram. L'image de l'entreprise devra y être ajustée pour être en accord avec le nouveau site web. Il sera aussi important d'inscrire le BED sur d'autres plateformes d'intérêt, entre autres Google Business Profile.
